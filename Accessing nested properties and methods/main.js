@@ -27,8 +27,11 @@ let spaceship = {
     }
   }; 
   
+  /// ad 1
   let capFave = spaceship.crew.captain['favorite foods'][0];
   
+  /// ad 2
   let firstPassenger = spaceship.passengers[0];
   
+  /// ad 3
   spaceship.crew.captain.encourageTeam();

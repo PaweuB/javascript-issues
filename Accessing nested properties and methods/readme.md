@@ -42,7 +42,7 @@ First the computer evaluates spaceship.nanoelectronics, which results in an obje
 We accessed the back-up object by appending ['back-up'].
 The back-up object has a battery property, accessed with .battery which returned the value stored there: 'Lithium'
 
-## Instructions
+## Let's practice 
 
 ### 1.
 Create a variable capFave and assign the captain‘s favorite food (the element in the 0th index of her 'favorite foods' array) to it. Make sure to use bracket and dot notation to get the value of the food through nested access (don’t just copy the value into the variable!)
