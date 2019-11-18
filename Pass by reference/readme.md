@@ -14,8 +14,11 @@ let paintIt = obj => {
 paintIt(spaceship);
 
 spaceship.color // Returns 'glorious gold'
-Our function paintIt() permanently changed the color of our spaceship object. However, reassignment of the spaceship variable wouldn’t work in the same way:
+```
 
+Our ```function paintIt()``` permanently changed the color of our spaceship object. However, reassignment of the spaceship variable wouldn’t work in the same way:
+
+```javascript
 let spaceship = {
   homePlanet : 'Earth',
   color : 'red'
